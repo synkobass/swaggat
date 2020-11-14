@@ -8,7 +8,6 @@ I would like to thank vocanorosse () for helping me with the data for the initia
 ### Characters
 
 | alex | abi | ken | asfd  |  asfd|
-|---|---|---|---|---|
 |fas   |as   |asda   | asfd  | asdf |
 |asdf  |  asdfa |  fasd | asdf  | sadf |
 |  asdf fsf   | asdf  |  fasd | asdf  |
