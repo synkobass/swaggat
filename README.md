@@ -37,7 +37,7 @@ Syntax highlighted code block
 ## Alex
 #### Matchup: ??
 ##### Matchup: ??
-| Recommended V-skill | 1 (2 can also work)|
+| Recommended V-skill | 1 |
 | Recommended V-trigger | 1 or 2 |
 - hasdfsa
 - asdfasdf
