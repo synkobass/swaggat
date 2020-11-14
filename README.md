@@ -1,13 +1,18 @@
 
-## Welcome to GitHub Pages SWAGGAT
+## Sagat Skill/Trigger Matchup Guide
 
-You can use the [editor on GitHub](https://github.com/synkobass/tuto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This guide is to help pick the right V-skill and V-trigger for Sagat's matchups. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would like to thank vocanorosse () for helping me with the data for the initial version of this guide.
 
-### Markdown
+### Characters
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| alex | abi | ken | asfd  |  asfd|
+|---|---|---|---|---|
+|fas   |as   |asda   | asfd  | asdf |
+|asdf  |  asdfa |  fasd | asdf  | sadf |
+|  asdf fsf   | asdf  |  fasd | asdf  |
+
 
 ```markdown
 Syntax highlighted code block
