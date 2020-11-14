@@ -7,10 +7,10 @@ I would like to thank vocanorosse () for helping me with the data for the initia
 
 ### Characters
 
-| alex | abi | ken | asfd  |  asfd|
+| [alex](#alex) | abi | ken | asfd  |  asfd|
 |fas   |as   |asda   | asfd  | asdf |
 |asdf  |  asdfa |  fasd | asdf  | sadf |
-|  asdf fsf   | asdf  |  fasd | asdf  |
+|  asdf | fsf   | asdf  |  fasd | asdf  |
 
 
 ```markdown
@@ -29,6 +29,16 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
+
+## Alex
+```
+Matchup: ??
+Recommended V-skill: 1 (2 can also work)
+Recommended V-trigger: 1 or 2
+- hasdfsa
+- asdfasdf
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
