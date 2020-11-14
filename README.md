@@ -36,10 +36,12 @@ Syntax highlighted code block
 
 ## Alex
 #### Matchup: ??
-#####Recommended V-skill: 1 
-#####Recommended V-trigger: 1 or 2
+##### Recommended V-skill: 1 
+##### Recommended V-trigger: 1 or 2
 - hasdfsa
 - asdfasdf
+- some tipps
+- some more tipps
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
