@@ -1,6 +1,8 @@
 
 ## Sagat Skill/Trigger Matchup Guide
 
+![](tkd-kick.jpg)
+
 This guide is to help pick the right V-skill and V-trigger for Sagat's matchups. 
 
 I would like to thank vocanorosse () for helping me with the data for the initial version of this guide.
