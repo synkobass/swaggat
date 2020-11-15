@@ -35,6 +35,8 @@ V-Trigger 2 TODO
 
 ## Characters
 
+---
+
 ### Abigail
 #### Matchup: TODO
 
