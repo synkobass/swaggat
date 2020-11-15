@@ -15,7 +15,7 @@ General matchups are devided into 4 tiers:
 
 | [Abigail](#abigail) | [Akira](#akira) | [Akuma](#akuma) | [Alex](#alex) | [Balrog](#balrog) |
 | [Birdie](#birdie) | [Blanka](#blanka) | [Cammy](#cammy) | [Chun-Li](#chun-li) | [Cody](#cody) |
-| [Dan](#dan) | [Dhalsim | [Ed | [E. Honda](#honda) | [Falke](#falke) |
+| [Dan](#dan) | [Dhalsim](#dhalsim) | [Ed](#ed) | [E. Honda](#honda) | [Falke](#falke) |
 | [F.A.N.G.](#fang) | [G](#g) | [Gill](#gill) | [Guile](#guile) | [Ibuki](#ibuki) |
 | [Juri](#juri) | [Kage](#kage) | [Karin](#karin) | [Ken](#ken) | [Kolin](#kolin) |
 | [Laura](#laura) | [Lucia](#lucia) | [M. Bison](#bison) | [Menat](#menat) | [Nash](#nash) |
