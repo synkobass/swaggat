@@ -7,10 +7,13 @@ I would like to thank vocanorosse () for helping me with the data for the initia
 
 ### Characters
 
-| [alex](#alex) | [abi](#abi) | ken | asfd  |  asfd|
-|fas   |as   |asda   | asfd  | asdf |
-|asdf  |  asdfa |  fasd | asdf  | sadf |
-|  asdf | fsf   | asdf  |  fasd | asdf  |
+| Abigail | Akira | Akuma | Alex | Balrog | Birdie | Blanka |
+| Cammy | Chun-Li | Cody | Dan | Dhalsim | Ed | E.Honda |
+| Falke | F.A.N.G. | G | Gill | Guile | Ibuki | Juri |
+| Kage | Karin | Ken | Kolin | Laura | Lucia | M. Bison |
+| Menat | Nash | Necalli | Oro | Poison | Rashid | R. Mika |
+| Ryu | Sagat | Sakura | Seth | Urien | Vega | Rose |
+| Zangief | Zeku |
 
 ---
 
