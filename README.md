@@ -117,4 +117,4 @@ General matchups are devided into 4 tiers:
 ### Credits and thanks
 [VolcanoRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
 
-[BerlinFGC](http://berlinfgc.de/) who helped me with improvment suggestions and are my fighting game buddies.
+[BerlinFGC](http://berlinfgc.de/) are my buddies and helped me with improvement suggestions and proof reading.
