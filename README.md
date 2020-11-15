@@ -1,9 +1,13 @@
 
-## Sagat Skill/Trigger Matchup Guide
+# Sagat Skill/Trigger Matchup Guide
 
-This guide is to help pick the right V-skill and V-trigger for Sagat's matchups. 
+## Introduction
 
-I would like to thank vocanorosse () for helping me with the data for the initial version of this guide.
+This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
+
+## Credit and thanks
+* [VolcanopRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
+* Shout out to my buddies over at BerlinFGC! 
 
 ## Characters
 
