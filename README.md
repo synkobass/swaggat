@@ -5,14 +5,16 @@ This guide is to help pick the right V-skill and V-trigger for Sagat's matchups.
 
 I would like to thank vocanorosse () for helping me with the data for the initial version of this guide.
 
-### Characters
+## Characters
 
-| Abigail | Akira | Akuma | Alex | Balrog | Birdie | Blanka ||
-| Cammy | Chun-Li | Cody | Dan | Dhalsim | Ed | E.Honda ||
-| Falke | F.A.N.G. | G | Gill | Guile | Ibuki | Juri ||
-| Kage | Karin | Ken | Kolin | Laura | Lucia | M. Bison ||
-| Menat | Nash | Necalli | Oro | Poison | Rashid | R. Mika ||
-| Ryu | Sagat | Sakura | Seth | Urien | Vega | Rose ||
+| Abigail | Akira | Akuma | Alex | Balrog || 
+| Birdie | Blanka | Cammy | Chun-Li | Cody ||
+| Dan | Dhalsim | Ed | E.Honda | Falke ||
+| F.A.N.G. | G | Gill | Guile | Ibuki | Juri ||
+| Kage | Karin | Ken | Kolin | Laura ||
+| Lucia | M. Bison | Menat | Nash | Necalli ||
+| Oro | Poison | Rashid | R. Mika | Ryu ||
+| Sagat | Sakura | Seth | Urien | Vega | Rose ||
 | Zangief | Zeku ||
 
 ---
