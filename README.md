@@ -8,12 +8,12 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 ## Characters
 
 | [Abigail](#abigail) | [Akira]() | [Akuma]() | [Alex](#alex) | [Balrog]() |
-| [Birdie]() | Blanka | Cammy | Chun-Li | Cody |
-| [Dan]() | Dhalsim | Ed | E.Honda | Falke |
-| [F.A.N.G.]() | G | Gill | Guile | Ibuki |
+| [Birdie]() | Blanka | Cammy | [Chun-Li](#chun-li) | Cody |
+| [Dan]() | Dhalsim | Ed | [E. Honda](#e.) | Falke |
+| [F.A.N.G.](#f.a.n.g) | [G](#g) | Gill | Guile | Ibuki |
 | [Juri]() | Kage | Karin | Ken | Kolin |
-| [Laura]() | Lucia | [M. Bison](#m. bison) | Menat | Nash |
-| [Necalli]() | Oro | Poison | Rashid | R. Mika |
+| [Laura]() | Lucia | [M. Bison](#m.) | Menat | Nash |
+| [Necalli]() | Oro | Poison | Rashid | [R. Mika](#r.) |
 | [Ryu]() | Sagat | Sakura | Seth | Urien |
 | [Vega]() | Rose | Zangief | Zeku |
 
@@ -34,7 +34,67 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 
 ---
 
+## E. Honda
+#### Matchup: ??
+
++ **Recommended V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Alternative V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Recommended V-trigger: 1 or 2**
+  - hasdfsa
+  - some more tipps
+
+---
+
+## Chun-Li
+#### Matchup: ??
+
++ **Recommended V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Alternative V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Recommended V-trigger: 1 or 2**
+  - hasdfsa
+  - some more tipps
+
+---
+
 ## M. Bison
+#### Matchup: ??
+
++ **Recommended V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Alternative V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Recommended V-trigger: 1 or 2**
+  - hasdfsa
+  - some more tipps
+
+---
+
+## F.A.N.G
+#### Matchup: ??
+
++ **Recommended V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Alternative V-skill: 1** 
+  - asdfasdf
+  - some tipps
++ **Recommended V-trigger: 1 or 2**
+  - hasdfsa
+  - some more tipps
+
+---
+
+## R. Mika
 #### Matchup: ??
 
 + **Recommended V-skill: 1** 
