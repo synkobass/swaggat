@@ -28,14 +28,15 @@ Shout out to my buddies over at [BerlinFGC](http://berlinfgc.de/).
 #### Matchup: ??
 
 + **Recommended V-skill: 1** 
-- asdfasdf
-- some tipps
+  - asdfasdf
+  - some tipps
+  
 + **Alternative V-skill: 1** 
-- asdfasdf
-- some tipps
+  - asdfasdf
+  - some tipps
 + **Recommended V-trigger: 1 or 2**
-- hasdfsa
-- some more tipps
+  - hasdfsa
+  - some more tipps
 
 ---
 
