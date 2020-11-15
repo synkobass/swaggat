@@ -5,7 +5,7 @@
 
 This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
 
-## Characters
+## Character Select {#chars}
 
 | [Abigail](#abigail) | [Akira]() | [Akuma]() | [Alex](#alex) | [Balrog]() |
 | [Birdie]() | Blanka | Cammy | [Chun-Li](#chun-li) | Cody |
@@ -32,7 +32,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
   - hasdfsa
   - some more tipps
 
-[Character Select](#characters)
+[Character Select](#chars)
 
 ---
 
@@ -49,7 +49,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
   - hasdfsa
   - some more tipps
   
-[Character Select](#characters)
+[Character Select](#chars)
 
 ---
 
@@ -66,7 +66,8 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
   - hasdfsa
   - some more tipps
 
-[Character Select](#characters)
+[Character Select](#chars)
+
 ---
 
 ## G
