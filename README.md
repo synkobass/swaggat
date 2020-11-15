@@ -116,8 +116,8 @@ General matchups are devided into 4 tiers:
 #### Matchup: ??
 
 [Character Select](#chars)
--
---
+
+---
 
 ## Ed 
 #### Matchup: ??
