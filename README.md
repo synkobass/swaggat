@@ -33,8 +33,8 @@ Syntax highlighted code block
 
 ## Alex
 #### Matchup: ??
-##### Recommended V-skill: 1 
-##### Recommended V-trigger: 1 or 2
+**Recommended V-skill: 1** 
+**Recommended V-trigger: 1 or 2**
 - hasdfsa
 - asdfasdf
 - some tipps
