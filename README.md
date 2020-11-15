@@ -217,6 +217,13 @@ General matchups are devided into 4 tiers:
 
 ---
 
+## Lucia
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
 ## M. Bison {#bison}
 #### Matchup: ??
 
