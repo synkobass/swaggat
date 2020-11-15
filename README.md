@@ -32,7 +32,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
   - hasdfsa
   - some more tipps
 
-[Character Select](#charselect)
+#####[Character Select](#charselect)
 ---
 
 ## E. Honda {#honda}
@@ -48,7 +48,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
   - hasdfsa
   - some more tipps
   
-[Character Select](#charselect)
+######[Character Select](#charselect)
 ---
 
 ## Chun-Li 
@@ -63,7 +63,8 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 + **Recommended V-trigger: 1 or 2**
   - hasdfsa
   - some more tipps
-[Character Select](#charselect)
+
+######[Character Select](#charselect)
 ---
 
 ## G
@@ -93,7 +94,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 + **Recommended V-trigger: 1 or 2**
   - hasdfsa
   - some more tipps
-[Character Select](#charselect)
+
 ---
 
 ## F.A.N.G {#fang}
