@@ -6,10 +6,10 @@
 This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
 
 General matchups are devided into 4 tiers:
-* advantageous
+* advantage
 * even
-* disadvantageous
-* very disadvantageous
+* disadvantage
+* horrible
 
 ## Character Select {#chars}
 
@@ -42,19 +42,37 @@ General matchups are devided into 4 tiers:
 
 ---
 
+## Akira
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Akuma
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Alex
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Balrog
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
 ## E. Honda {#honda}
 #### Matchup: ??
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
-  
 [Character Select](#chars)
 
 ---
@@ -62,92 +80,41 @@ General matchups are devided into 4 tiers:
 ## Chun-Li 
 #### Matchup: disadvantageous
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
-
 [Character Select](#chars)
 
 ---
 
 ## G
-#### Matchup: very disadvantageous
+#### Matchup: 
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
+[Character Select](#chars)
 
 ---
 
 ## M. Bison {#bison}
 #### Matchup: ??
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
+[Character Select](#chars)
 
 ---
 
 ## F.A.N.G {#fang}
 #### Matchup: ??
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
+[Character Select](#chars)
 
 ---
 
 ## R. Mika {#mika}
 #### Matchup: ??
 
-+ **Recommended V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Alternative V-skill: 1** 
-  - asdfasdf
-  - some tipps
-+ **Recommended V-trigger: 1 or 2**
-  - hasdfsa
-  - some more tipps
+[Character Select](#chars)
 
 ---
 
-## Alex
-```
-#### Matchup: ??
-##### Recommended V-skill: 1 
-##### Recommended V-trigger: 1 or 2
-- hasdfsa
-- asdfasdf
-- some tipps
-- some more tipps
-```
 
-### Credit and thanks
+
+### Credits and thanks
 [VolcanoRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
 
 [BerlinFGC](http://berlinfgc.de/) who helped me with improvment suggestions and are my fighting game buddies.
