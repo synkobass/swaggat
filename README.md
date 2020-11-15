@@ -70,6 +70,62 @@ General matchups are devided into 4 tiers:
 
 ---
 
+## Birdie
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Blanka
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Cammy
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Chun-Li
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Cody
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Dan
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Dhalsim 
+#### Matchup: ??
+
+[Character Select](#chars)
+-
+--
+
+## Ed 
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
 ## E. Honda {#honda}
 #### Matchup: ??
 
@@ -77,21 +133,7 @@ General matchups are devided into 4 tiers:
 
 ---
 
-## Chun-Li 
-#### Matchup: disadvantageous
-
-[Character Select](#chars)
-
----
-
-## G
-#### Matchup: 
-
-[Character Select](#chars)
-
----
-
-## M. Bison {#bison}
+## Falke
 #### Matchup: ??
 
 [Character Select](#chars)
@@ -105,6 +147,125 @@ General matchups are devided into 4 tiers:
 
 ---
 
+## G
+#### Matchup: 
+
+[Character Select](#chars)
+
+---
+
+## Gill
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Guile
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Ibuki
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Juri
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Kage 
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Karin
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Ken
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Kolin
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Laura
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## M. Bison {#bison}
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Menat
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Nash
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Necalli
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Oro
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Poison
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Rashid
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
 ## R. Mika {#mika}
 #### Matchup: ??
 
@@ -112,7 +273,68 @@ General matchups are devided into 4 tiers:
 
 ---
 
+## Ryu
+#### Matchup: ??
 
+[Character Select](#chars)
+
+---
+
+## Sagat
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Sakura
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Seth
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Urien
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Vega
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Rose
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Zangief
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
+
+## Zeku
+#### Matchup: ??
+
+[Character Select](#chars)
+
+---
 
 ### Credits and thanks
 [VolcanoRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
