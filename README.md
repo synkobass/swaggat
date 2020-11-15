@@ -5,11 +5,20 @@
 
 This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
 
-General matchups are devided into 4 tiers:
+Matchups are devided into 4 categories:
 * advantage
 * even
 * disadvantage
 * horrible
+
+V-Skill 1 is a general damage buff on your DP's, in some situations you can get a juggle without burning EX meter. Use VS1 for oppoennts who are very jump happy
+
+V-Skill 2 will buff the hitbox on your tiger knee moves and leaves you with more frame advantage. Use VS2 for where they try to zone you out.
+
+V-Trigger 1 TODO
+
+V-Trigger 2 TODO
+
 
 ## Character Select {#chars}
 
@@ -27,7 +36,7 @@ General matchups are devided into 4 tiers:
 ## Characters
 
 ### Abigail
-#### Matchup: ??
+#### Matchup: TODO
 
 + **Recommended V-skill: 1** 
   - asdfasdf
@@ -44,301 +53,300 @@ General matchups are devided into 4 tiers:
 ---
 
 ### Akira
-#### Matchup: ??
+#### Matchup:
 
 [Character Select](#chars)
 
 ---
 
 ### Akuma
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Alex
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Balrog
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Birdie
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Blanka
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Cammy
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Chun-Li
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Cody
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Dan
-#### Matchup: ??
+#### Matchup:
 
 [Character Select](#chars)
 
 ---
 
 ## Dhalsim 
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Ed 
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## E. Honda {#honda}
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Falke
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## F.A.N.G {#fang}
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## G
-#### Matchup: 
+#### Matchup: disadvantage
 
 [Character Select](#chars)
 
 ---
 
 ## Gill
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Guile
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Ibuki
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Juri
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Kage 
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Karin
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Ken
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Kolin
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Laura
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Lucia
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## M. Bison {#bison}
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Menat
-#### Matchup: ??
+#### Matchup: horrible
 
 [Character Select](#chars)
 
 ---
 
 ## Nash
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Necalli
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Oro
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Poison
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Rashid
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## R. Mika {#mika}
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Ryu
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Sagat
-#### Matchup: ??
-
+#### Matchup: even
 [Character Select](#chars)
 
 ---
 
 ## Sakura
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Seth
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Urien
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Vega
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Rose
-#### Matchup: ??
+#### Matchup:
 
 [Character Select](#chars)
 
 ---
 
 ## Zangief
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
 ---
 
 ## Zeku
-#### Matchup: ??
+#### Matchup: TODO
 
 [Character Select](#chars)
 
