@@ -32,7 +32,6 @@ Syntax highlighted code block
 ```
 
 ## Alex
-```
 #### Matchup: ??
 ##### Recommended V-skill: 1 
 ##### Recommended V-trigger: 1 or 2
@@ -40,7 +39,6 @@ Syntax highlighted code block
 - asdfasdf
 - some tipps
 - some more tipps
-```
 
 ## abi
 ```
