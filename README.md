@@ -265,7 +265,7 @@ V-Trigger 2 TODO
 ---
 
 ## Oro
-#### Matchup: TODO
+#### Matchup:
 
 [Character Select](#chars)
 
