@@ -7,8 +7,8 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 
 ## Character Select {#chars}
 
-| [Abigail](#abigail) | [Akira]() | [Akuma]() | [Alex](#alex) | [Balrog]() |
-| [Birdie]() | Blanka | Cammy | [Chun-Li](#chun-li) | Cody |
+| [Abigail](#abigail) | [Akira](#akira) | [Akuma](#akuma) | [Alex](#alex) | [Balrog](#balrog) |
+| [Birdie](#birdie) | [Blanka](#blanka) | [Cammy](#cammy) | [Chun-Li](#chun-li) | Cody |
 | [Dan]() | Dhalsim | Ed | [E. Honda](#honda) | Falke |
 | [F.A.N.G.](#fang) | [G](#g) | Gill | Guile | Ibuki |
 | [Juri]() | Kage | Karin | Ken | Kolin |
