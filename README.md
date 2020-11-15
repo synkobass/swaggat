@@ -7,7 +7,8 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 
 ### Credit and thanks
 [VolcanoRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
-Shout out to my buddies over at [BerlinFGC](http://berlinfgc.de/) 
+
+Shout out to my buddies over at [BerlinFGC](http://berlinfgc.de/).
 
 ## Characters
 
@@ -26,11 +27,14 @@ Shout out to my buddies over at [BerlinFGC](http://berlinfgc.de/)
 ## Abigail
 #### Matchup: ??
 
-- **Recommended V-skill: 1** 
-- **Recommended V-trigger: 1 or 2**
-- hasdfsa
++ **Recommended V-skill: 1** 
 - asdfasdf
 - some tipps
++ **Alternative V-skill: 1** 
+- asdfasdf
+- some tipps
++ **Recommended V-trigger: 1 or 2**
+- hasdfsa
 - some more tipps
 
 ---
