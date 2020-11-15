@@ -5,13 +5,13 @@
 
 This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
 
-## Credit and thanks
-* [VolcanopRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
-* Shout out to my buddies over at BerlinFGC! 
+### Credit and thanks
+[VolcanoRosso](https://www.twitch.tv/volcanorosso) helped me with the data for the initial version of this guide.
+Shout out to my buddies over at [BerlinFGC](http://berlinfgc.de/) 
 
 ## Characters
 
-| Abigail | Akira | Akuma | Alex | Balrog || 
+| [Abigail](#Abigail) | Akira | Akuma | [Alex](#Alex) | Balrog || 
 | Birdie | Blanka | Cammy | Chun-Li | Cody ||
 | Dan | Dhalsim | Ed | E.Honda | Falke ||
 | F.A.N.G. | G | Gill | Guile | Ibuki | 
@@ -23,7 +23,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 
 ---
 
-## Alex
+## Abigail
 #### Matchup: ??
 
 - **Recommended V-skill: 1** 
@@ -35,7 +35,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 
 ---
 
-## abi
+## Alex
 ```
 #### Matchup: ??
 ##### Recommended V-skill: 1 
