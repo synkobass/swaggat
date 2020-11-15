@@ -23,9 +23,10 @@ General matchups are devided into 4 tiers:
 | [Ryu](#ryu) | [Sagat](#sagat) | [Sakura](#sakura) | [Seth](#seth) | [Urien](#urien) |
 | [Vega](#vega) | [Rose](#rose) | [Zangief](#zangief) | [Zeku](#zeku) |
 
----
 
-## Abigail
+## Characters
+
+### Abigail
 #### Matchup: ??
 
 + **Recommended V-skill: 1** 
@@ -42,14 +43,14 @@ General matchups are devided into 4 tiers:
 
 ---
 
-## Akira
+### Akira
 #### Matchup: ??
 
 [Character Select](#chars)
 
 ---
 
-## Akuma
+### Akuma
 #### Matchup: ??
 
 [Character Select](#chars)
