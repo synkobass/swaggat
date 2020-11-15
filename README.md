@@ -5,17 +5,23 @@
 
 This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
 
+General matchups are devided into 4 tiers:
+* advantageous
+* even
+* disadvantageous
+* very disadvantageous
+
 ## Character Select {#chars}
 
 | [Abigail](#abigail) | [Akira](#akira) | [Akuma](#akuma) | [Alex](#alex) | [Balrog](#balrog) |
-| [Birdie](#birdie) | [Blanka](#blanka) | [Cammy](#cammy) | [Chun-Li](#chun-li) | Cody |
-| [Dan]() | Dhalsim | Ed | [E. Honda](#honda) | Falke |
-| [F.A.N.G.](#fang) | [G](#g) | Gill | Guile | Ibuki |
-| [Juri]() | Kage | Karin | Ken | Kolin |
-| [Laura]() | Lucia | [M. Bison](#bison) | Menat | Nash |
-| [Necalli]() | Oro | Poison | Rashid | [R. Mika](#mika) |
-| [Ryu]() | Sagat | Sakura | Seth | Urien |
-| [Vega]() | Rose | Zangief | Zeku |
+| [Birdie](#birdie) | [Blanka](#blanka) | [Cammy](#cammy) | [Chun-Li](#chun-li) | [Cody](#cody) |
+| [Dan](#dan) | [Dhalsim | [Ed | [E. Honda](#honda) | [Falke](#falke) |
+| [F.A.N.G.](#fang) | [G](#g) | [Gill](#gill) | [Guile](#guile) | [Ibuki](#ibuki) |
+| [Juri](#juri) | [Kage](#kage) | [Karin](#karin) | [Ken](#ken) | [Kolin](#kolin) |
+| [Laura](#laura) | [Lucia](#lucia) | [M. Bison](#bison) | [Menat](#menat) | [Nash](#nash) |
+| [Necalli](#necalli) | [Oro](#oro) | [Poison](#poison) | [Rashid](#rashid) | [R. Mika](#mika) |
+| [Ryu](#ryu) | [Sagat](#sagat) | [Sakura](#sakura) | [Seth](#seth) | [Urien](#urien) |
+| [Vega](#vega) | [Rose](#rose) | [Zangief](#zangief) | [Zeku](#zeku) |
 
 ---
 
@@ -54,7 +60,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 ---
 
 ## Chun-Li 
-#### Matchup: ??
+#### Matchup: disadvantageous
 
 + **Recommended V-skill: 1** 
   - asdfasdf
@@ -71,7 +77,7 @@ This guide is to help new Sagat players to pick the right V-Skill and V-Trigger 
 ---
 
 ## G
-#### Matchup: ??
+#### Matchup: very disadvantageous
 
 + **Recommended V-skill: 1** 
   - asdfasdf
