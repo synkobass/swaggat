@@ -12,33 +12,19 @@ I would like to thank vocanorosse () for helping me with the data for the initia
 |asdf  |  asdfa |  fasd | asdf  | sadf |
 |  asdf | fsf   | asdf  |  fasd | asdf  |
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+---
 
 ## Alex
 #### Matchup: ??
-**Recommended V-skill: 1** 
-**Recommended V-trigger: 1 or 2**
+
+- **Recommended V-skill: 1** 
+- **Recommended V-trigger: 1 or 2**
 - hasdfsa
 - asdfasdf
 - some tipps
 - some more tipps
+
+---
 
 ## abi
 ```
