@@ -39,13 +39,17 @@ V-Trigger 2 TODO
 
 ### Abigail
 #### Matchup: TODO
+- evade this
+- punish that
 
 **Recommended V-skill: 1** 
 - asdfasdf
 - some tipps
+
 **Alternative V-skill: 1** 
 - asdfasdf
 - some tipps
+
 **Recommended V-trigger: 1 or 2**
 - hasdfsa
 - some more tipps
