@@ -3,13 +3,18 @@
 
 ## Introduction
 
-This guide is to help new Sagat players to pick the right V-Skill and V-Trigger for the specific matchups. 
+This guide is to help new Sagat players with general character matchup advise and to pick the right V-Skill and V-Trigger for the specific matchups. 
 
 Matchups are devided into 4 categories:
-* advantage 
+* advantage
 * even
 * disadvantage
 * horrible
+
+V-Skill and V-Trigger are devided into 3 categories:
+* recommended: a viable pick for this character matchup
+* alternative: can also work for this character matchup
+* inadvisable: usually not recommended for this character matchup
 
 V-Skill 1 is a general damage buff on your DP's, in some situations you can get a juggle without burning EX meter. Use VS1 for oppoennts who are very jump happy
 
