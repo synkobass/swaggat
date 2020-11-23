@@ -18,12 +18,12 @@ V-Skill and V-Trigger are devided into 3 categories:
 
 V-Skill 1 Tiger Uppercut Buff
 * 50 frames to charge
-* +?? damage on next tiger uppercut
+* +30 damage on next tiger uppercut
 * +30 stun on next tiger uppercut
 * +1 juggle point on next tiger uppercut
 * increased knockback distance
 * more hitfreeze helps with confirms and blowing through projectiles on screen
-* builds 100/60 v-gauge on hit/block (20 on whiff)
+* builds 100/60/20 v-gauge on hit/block/whiff
 
 V-Skill 2 Tiger Knee Buff
 
