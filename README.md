@@ -16,9 +16,16 @@ V-Skill and V-Trigger are devided into 3 categories:
 * alternative: can also work for this character matchup
 * inadvisable: usually not recommended for this character matchup
 
-V-Skill 1 is a general damage buff on your DP's, in some situations you can get a juggle without burning EX meter. Use VS1 for oppoennts who are very jump happy
+V-Skill 1 Tiger Uppercut Buff
+* 50 frames to charge
+* +?? damage on next tiger uppercut
+* +30 stun on next tiger uppercut
+* +1 juggle point on next tiger uppercut
+* increased knockback distance
+* more hitfreeze helps with confirms and blowing through projectiles on screen
+* builds 100/60 v-gauge on hit/block (20 on whiff)
 
-V-Skill 2 will buff the hitbox on your tiger knee moves and leaves you with more frame advantage. Use VS2 for where they try to zone you out.
+V-Skill 2 Tiger Knee Buff
 
 V-Trigger 1 TODO
 
