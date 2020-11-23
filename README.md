@@ -16,7 +16,7 @@ V-Skill and V-Trigger are devided into 3 categories:
 * alternative: can also work
 * inadvisable: usually not recommended
 
-## V-Skills
+### V-Skills
 
 **V-Skill 1**: Buffs next Tiger Uppercut
 * 50 frames to charge
@@ -32,7 +32,7 @@ V-Skill and V-Trigger are devided into 3 categories:
 * removes hurtbox around sagats leading knee
 * builds 40/20/20 v-gauge on hit/block/whiff
 
-## V-Triggers
+### V-Triggers
 
 **V-Trigger 1** 
 * TODO
