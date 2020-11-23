@@ -1,9 +1,9 @@
 
-# Sagat Skill/Trigger Matchup Guide
-
-## Introduction
+# Sagat Matchup/Skill/Trigger Guide
 
 This guide is to help new Sagat players with general character matchup advise and to pick the right V-Skill and V-Trigger for the specific matchups. 
+
+## Introduction
 
 Matchups are devided into 4 categories:
 * advantage
@@ -12,24 +12,33 @@ Matchups are devided into 4 categories:
 * horrible
 
 V-Skill and V-Trigger are devided into 3 categories:
-* recommended: a viable pick for this character matchup
-* alternative: can also work for this character matchup
-* inadvisable: usually not recommended for this character matchup
+* recommended: the best pick
+* alternative: can also work
+* inadvisable: usually not recommended
 
-V-Skill 1 Tiger Uppercut Buff
+## V-Skills
+
+**V-Skill 1**: Buff next Tiger Uppercut
 * 50 frames to charge
-* +30 damage on next tiger uppercut
-* +30 stun on next tiger uppercut
-* +1 juggle point on next tiger uppercut
-* increased knockback distance
-* more hitfreeze helps with confirms and blowing through projectiles on screen
+* adds 30/30 damage/stun
+* adds 1 juggle point
+* increased knockback distance and longer hitfreeze
 * builds 100/60/20 v-gauge on hit/block/whiff
 
-V-Skill 2 Tiger Knee Buff
+**V-Skill 2**: Buff next Tiger Knee
+* 50 frames to charge
+* adds frame advantage on hit/block
+* juggle increase 0
+* removes hurtbox around sagats leading knee
+* builds 40/20/20 v-gauge on hit/block/whiff
 
-V-Trigger 1 TODO
+## V-Triggers
 
-V-Trigger 2 TODO
+**V-Trigger 1** 
+* TODO
+
+**V-Trigger 2** 
+* TODO
 
 
 ## Character Select {#chars}
