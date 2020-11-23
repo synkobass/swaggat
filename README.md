@@ -22,7 +22,7 @@ V-Skill and V-Trigger are devided into 3 categories:
 * 50 frames to charge
 * adds 30 damage and 30 stun
 * adds 1 juggle point
-* increased knockback distance and longer hitfreeze
+* longer hitfreeze and increased knockback distance
 * builds 100/60/20 v-gauge on hit/block/whiff
 
 **V-Skill 2**: Buffs next Tiger Knee
